@@ -1,7 +1,9 @@
-title: CV
-description: Igor's CV
+title: Igor Savochkin
+description: Software Engineer | Researcher
 email: savochkin@physics.msu.ru
-github_username:  neonh
+github_username: neonh
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
